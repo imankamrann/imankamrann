@@ -35,7 +35,7 @@ I’m passionate about blending **technology**, **creativity**, and a dash of **
 ---
 
 ## 🌻 **Let’s Connect!**  
-- **🌍 Website:** [imank.us](#https://www.imank.us)  
-- **💼 LinkedIn:** [iman-kamran](#https://www.linkedin.com/in/iman-kamran/)  
+- **🌍 Website:** [imank.us](https://www.imank.us)  
+- **💼 LinkedIn:** [iman-kamran](https://www.linkedin.com/in/iman-kamran/)  
 
 ✨ Thanks for stopping by! Keep creating 💻💖
