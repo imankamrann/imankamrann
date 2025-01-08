@@ -15,7 +15,6 @@ I’m passionate about blending **technology**, **creativity**, and a dash of **
 
 ## 💼 **What I Do**  
 - **Technical Ops & Leadership** 🧩: Building scalable solutions and guiding teams to success.  
-- **Cybersecurity & IT Support** 🔒: Keeping systems safe and efficient with frameworks like ITIL.  
 - **Web Development** 🌐: Crafting stunning, functional websites and apps that *wow*.  
 - **Mentorship & Outreach** 💕: Teaching kids coding and inspiring women in tech.  
 
@@ -36,8 +35,7 @@ I’m passionate about blending **technology**, **creativity**, and a dash of **
 ---
 
 ## 🌻 **Let’s Connect!**  
-- **🌍 Website:** [YourWebsiteLink](#)  
-- **💼 LinkedIn:** [YourLinkedInLink](#)  
-- **🐦 Twitter:** [YourTwitterHandle](#)  
+- **🌍 Website:** [https://www.imank.us](#)  
+- **💼 LinkedIn:** [https://www.linkedin.com/in/iman-kamran/](#)  
 
-✨ Thanks for stopping by! Keep creating, keep dreaming, and never stop coding! 💻💖
+✨ Thanks for stopping by! Keep creating 💻💖
