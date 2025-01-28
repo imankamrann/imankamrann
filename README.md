@@ -2,7 +2,7 @@
 
 Hi there! I'm Iman (she/her) – a app and web developer!  
 
-I’m passionate about blending **technology**, **creativity**, and a dash of **magic** 🪄 to create impactful solutions. Whether it’s designing clean and intuitive UI/UX 🎨, creating apps 🔐, or mentoring future coders 👩🏽‍🏫, I thrive on innovation and collaboration.  
+I’m passionate about blending **technology**, **creativity**, and a dash of **magic** 🪄 to create impactful solutions. Whether it’s designing clean and intuitive UI/UX 🎨, creating apps 📱, or mentoring future coders 👩🏽‍🏫, I thrive on innovation and collaboration.  
 
 ---
 
