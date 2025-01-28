@@ -22,8 +22,8 @@ I’m passionate about blending **technology**, **creativity**, and a dash of **
 
 ## 🛠️ **Tech Stack**  
 - **Languages:** Python 🐍 | C# ⚙️ | JavaScript 🌟 | SQL 🛢️  
-- **Frameworks & Tools:** ASP.NET Core 🌐 | SQLite 📂 | Pandas 🐼  
-- **UI/UX:** HTML & CSS 🌸 | Bootstrap 🌈 | Figma 🖌️  
+- **Frameworks & Tools:** React 🌐 | Firebase 📂 | Next 🕹️  
+- **UI/UX:** HTML & CSS 🌸 | Tailwind 🌈 | Figma 🖌️  
 
 ---
 
