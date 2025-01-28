@@ -8,7 +8,7 @@ I’m passionate about blending **technology**, **creativity**, and a dash of **
 
 ## 🌟 **About Me**  
 - **🎓 Background:** Computer Science 💻 | Design 🎀 | Information Technology 📡  
-- **🎸 Fun Fact:** I play guitar, bass, and ukulele (and sing a bit too!) 🎶🎤  
+- **🎸 Fun Fact:** I play guitar, bass, drums and ukulele 🎶🎸  
 - **✨ Interests:** Tech, Fantasy, UI/UX, and helping others grow 🌱  
 
 ---
