@@ -28,9 +28,9 @@ I’m passionate about blending **technology**, **creativity**, and a dash of **
 ---
 
 ## 📌 **Check Out My Projects!**  
-- 🎵 **[Music App](#)**: An iOS app to discover your new favorite tunes 🎧.  
-- 📷 **[Social Media Backend](#)**: Instagram-inspired API built with ASP.NET Core 📸.  
-- 🌦️ **[Weather Widget](#)**: An iOS app displaying a sleek 7-hour forecast 🌤️.  
+- 🎵 **[Groovify](https://github.com/Adolfo-David-Romero/Groovify)**: An iOS app to discover music based on your mood 🎧.  
+- 📷 **[Galileo Dynasim](https://devpost.com/software/galileo-dynasim)**: Duolingo-inspired physics learning web app 🧮.  
+- 🌦️ **[Git Mania](https://devpost.com/software/gitmania)**: A gamified way to learn basic Git commands. 🤖.  
 
 ---
 
