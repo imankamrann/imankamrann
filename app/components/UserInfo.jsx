@@ -21,7 +21,7 @@ function UserInfo({ userInfo }) {
                 {userInfo.email}
             </h2>
 
-            <button   className="bg-gray-200 p-2 px-3 font-semibold mt-5 rounded-full text-black">Share</button>
+            <button   className="bg-gray-200 p-2 px-3 font-semibold mt-5    rounded-full text-black">Share</button>
         </div>
     );
 }
