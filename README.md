@@ -1,15 +1,15 @@
 # 👩🏽‍💻✨ Welcome to My GitHub! ✨👩🏽‍💻
 
-Hi there! I'm Iman (she/her) – a app and web developer!  
+Hi there! I'm Iman (she/her) – a app and web developer/designer!  
 
-I’m passionate about blending **technology**, **creativity**, and a dash of **magic** 🪄 to create impactful solutions. Whether it’s designing clean and intuitive UI/UX 🎨, creating apps 📱, or mentoring future coders 👩🏽‍🏫, I thrive on innovation and collaboration.  
+I’m passionate about blending **technology** and **creativity** 🪄 to create impactful solutions. Whether it’s designing clean and intuitive UI/UX 🎨, creating apps 📱, or mentoring future coders 👩🏽‍🏫, I thrive on innovation and collaboration.  
 
 ---
 
 ## 🌟 **About Me**  
 - **🎓 Background:** Computer Science 💻 | Design 🎀 | Information Technology 📡  
 - **🎸 Fun Fact:** I play guitar, bass, drums and ukulele 🎶🎸  
-- **✨ Interests:** Tech, Fantasy, UI/UX, and helping others grow 🌱  
+- **✨ Interests:** Tech, UI/UX, Art and Nature 🌱  
 
 ---
 
