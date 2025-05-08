@@ -21,9 +21,10 @@ I’m passionate about blending **technology** and **creativity** 🪄 to create
 ---
 
 ## 🛠️ **Tech Stack**  
-- **Languages:** Python 🐍 | C# ⚙️ | JavaScript 🌟 | SQL 🛢️  
-- **Frameworks & Tools:** React 🌐 | Firebase 📂 | Next 🕹️  
-- **UI/UX:** HTML & CSS 🌸 | Tailwind 🌈 | Figma 🖌️  
+- **Languages:** Python 🐍 | C# ⚙️ | Swift 🍎 | JavaScript 🌟 | Java ☕ | HTML & CSS 🎨  
+- **Frameworks & Tools:** React 🌐 | Node.js ⚡ | Spring Boot 🍃 | ASP.NET 🛠 | Git/GitHub 🗃 | Figma 🖌 | Jira 📋 | Visual Paradigm 🧩  
+- **Cloud & Data:** AWS ☁️ | Google Cloud 🌍 | Firebase 🔥 | MongoDB 🍃 | MySQL 🛢️ | Pandas 🐼  
+- **Practices:** Agile 🏃 | OOP 🧠 | TDD ✅ | Design Patterns 🧵  
 
 ---
 
