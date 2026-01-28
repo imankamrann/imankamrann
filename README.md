@@ -99,7 +99,7 @@ I enjoy **front end development and designing** thoughtful UI- bridging the gap 
   <summary><strong>Featured Projects</strong></summary>
   <br/>
   
-- 🎵 **[Neurizz](https://devpost.com/software/neurizz?ref_content=my-projects-tab&ref_feature=my_projects)**: AI social coaching for neurodivergent dating 💕
+- 💕 **[Neurizz](https://devpost.com/software/neurizz?ref_content=my-projects-tab&ref_feature=my_projects)**: AI social coaching for neurodivergent dating 💕
 - 🎵 **[Groovify](https://github.com/Adolfo-David-Romero/Groovify)**: An iOS app to discover music based on your mood 🎧
 - 📷 **[Galileo Dynasim](https://devpost.com/software/galileo-dynasim)**: Duolingo-inspired physics learning web app 🧮
 - 🌦️ **[Git Mania](https://devpost.com/software/gitmania)**: A gamified way to learn basic Git commands 🤖
