@@ -1,4 +1,4 @@
-# 👩🏽‍💻✨ Welcome to My GitHub! ✨👩🏽‍💻
+# ☆ Welcome to My GitHub! ☆
 
 Hi there! I'm Iman (she/her) – a app and web developer/designer!  
 
@@ -39,4 +39,4 @@ I’m passionate about blending **technology** and **creativity** 🪄 to create
 - **🌍 Website:** [imank.us](https://www.imank.us)  
 - **💼 LinkedIn:** [iman-kamran](https://www.linkedin.com/in/iman-kamran/)  
 
-✨ Thanks for stopping by! Keep creating 💻💖
+⊹₊⟡⋆ Thanks for stopping by! Stay Whimsical ⊹₊⟡⋆
