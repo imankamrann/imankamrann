@@ -28,7 +28,7 @@ I enjoy **front end development and designing** thoughtful UI- bridging the gap 
 
 ## About Me
 - **Music:** Guitar, bass, drums, ukulele (˶˃ ᵕ ˂˶)🎸
-- **Leadership:** Design lead for Bearhacks, Sheridan CS club and prev @ GDG ︎⋆˚꩜｡ 🧚🏻‍♀️
+- **Leadership:** Design lead for Bearhacks, Sheridan CS club and prev @ GDG ︎⋆˚꩜｡🧚🏻‍♀️
 - **Fun Fact:** My ultimate "long-term project" is having my own farm 𖡼.𖤣𖥧🍄𖡼.𖤣𖥧 
 
 
