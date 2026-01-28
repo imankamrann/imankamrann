@@ -10,8 +10,8 @@
   <a href="https://linkedin.com/in/iman-kamran">
     <img src="https://img.shields.io/badge/✿%20linkedin-EDCFFF?style=flat&logoColor=black" />
   </a>
-      <a href="https://imank.us">
-    <img src="https://img.shields.io/badge/✿%20portfolio-F9BEDB?style=flat&logoColor=black" />
+      <a href="mailto:imankamran@gmail.com">
+    <img src="https://img.shields.io/badge/✿%20email-F9BEDB?style=flat&logoColor=black" />
   </a>
 </p>
 
