@@ -1,17 +1,17 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=8E54E9&text=hi!%20i'm%20iman%20(˶ᵔ%20ᵕ%20ᵔ˶)%20&animation=fadeIn&fontColor=0&textBg=false&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=8E54E9&text=hi!%20i'm%20iman%20(˶ᵔ%20ᵕ%20ᵔ˶)%20&fontColor=FFFFFF&textBg=false&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <a href="https://imank.us">
-    <img src="https://img.shields.io/badge/✿%20website-ABE0FC?style=flat/>
+    <img src="https://img.shields.io/badge/✿%20website-ABE0FC?style=flat&logoColor=black" />
   </a>
   <a href="https://linkedin.com/in/iman-kamran">
-    <img src="https://img.shields.io/badge/✿%20linkedin-EDCFFF?style=flat />
+    <img src="https://img.shields.io/badge/✿%20linkedin-EDCFFF?style=flat&logoColor=black" />
   </a>
-  <a href="https://imank.us">
-    <img src="https://img.shields.io/badge/✿%20portfolio-F9BEDB?style=flatlabelColor=FFFBE3" />
+      <a href="https://imank.us">
+    <img src="https://img.shields.io/badge/✿%20portfolio-F9BEDB?style=flat&logoColor=black" />
   </a>
 </p>
 
@@ -96,10 +96,13 @@ I enjoy **front end development and designing** thoughtful UI- bridging the gap 
 
 
 <details>
-  <summary><strong> Featured Projects</strong></summary>
-- 🎵 **[Groovify](https://github.com/Adolfo-David-Romero/Groovify)**: An iOS app to discover music based on your mood 🎧.  
-- 📷 **[Galileo Dynasim](https://devpost.com/software/galileo-dynasim)**: Duolingo-inspired physics learning web app 🧮.  
-- 🌦️ **[Git Mania](https://devpost.com/software/gitmania)**: A gamified way to learn basic Git commands. 🤖.  
+  <summary><strong>Featured Projects</strong></summary>
+  <br/>
+
+- 🎵 **[Groovify](https://github.com/Adolfo-David-Romero/Groovify)**: An iOS app to discover music based on your mood 🎧
+- 📷 **[Galileo Dynasim](https://devpost.com/software/galileo-dynasim)**: Duolingo-inspired physics learning web app 🧮
+- 🌦️ **[Git Mania](https://devpost.com/software/gitmania)**: A gamified way to learn basic Git commands 🤖
+
 </details>
 
 ---
