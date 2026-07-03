@@ -70,6 +70,8 @@ I enjoy **front end development and designing** thoughtful UI- bridging the gap 
 <details>
   <summary><strong>☆ Highlights ☆</strong></summary>
 
+  - **Product Designer @ Scotiabank**  
+
 - **Full-Stack Developer @ Fenix Alma**  
   Building an AI powered Automated Reporting and Analytics Dashboard
 
@@ -88,6 +90,7 @@ I enjoy **front end development and designing** thoughtful UI- bridging the gap 
 - **Hackathon Wins**  
   🥉 DeerHacks 2024 (*Galileo Dynasim*)  
   🏆 2× Hackville 2026
+  🏆 1× HuskyHacks 2026
 
 - **Coding Instructor**  
   Taught students ages 7–17 via Code Ninjas & Lady Fatima Organization.
